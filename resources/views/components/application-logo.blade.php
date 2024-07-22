@@ -1,0 +1,1 @@
+<img src="{{ asset('images/messi.ico') }}" alt="Your Logo" style="width: 100px; height: 100px; class="w-16 h-16">
